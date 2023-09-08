@@ -64,20 +64,4 @@ public class Rook extends ChessPiece {
 		
 		return mat;
 	}
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
 }
